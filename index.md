@@ -18,7 +18,7 @@ C++ linked List
 <br>
 Course Project 2019
 
-
+/*
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
@@ -28,7 +28,7 @@ Course Project 2019
 - [Project 5 Title](http://example.com/)
 
 ---
-
+*/
 
 
 
