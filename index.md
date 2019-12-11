@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Interactive Tic-Tac-Toe 
 
 [Interactive Tic-Tac-Toe](/sample_page)
 <img src="images/tick-tac-toe.png?raw=true"/>
