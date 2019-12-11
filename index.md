@@ -7,6 +7,7 @@
 
 <img src="images/tick-tac-toe.png?raw=true"/>
 Course Project, Spring 2019
+---
 Qt with C++
 
 ---
