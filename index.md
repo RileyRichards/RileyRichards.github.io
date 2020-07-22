@@ -6,8 +6,9 @@
 
 Personal Project
 Wrote a program with a friend in Python that visulizes the A* Pathfinding Algorithm.
+<br>
 Made a Python interface which takes the users different imputes and based creates a animation that vizulises the process of the A* Pathfinding Algorithm.
-<video width="500" height="750" controls>
+<video width="500" height="522" controls>
   <source src="images/Vizulization.mp4" type="video/mp4">
 </video>
 
@@ -20,14 +21,6 @@ Made a Python interface which takes the users different imputes and based create
 Course Project, Spring 2019
 <br>
 Qt with C++
-
----
-
-### Linked List
-<img src="images/linkedlist.png?raw=true"/>
-C++ linked List
-<br>
-Course Project 2019
 
 ---
 
