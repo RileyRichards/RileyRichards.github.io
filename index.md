@@ -6,7 +6,7 @@
 
 Personal Project
 <video width="500" height="750" controls>
-  <source src="images/Vizulization.io(7-sec).mov" type=video/mov>
+  <source src="images/Vizulization.io(7-sec).mp4" type=video/mp4>
 </video>
 
 ### Interactive Tic-Tac-Toe 
