@@ -5,10 +5,12 @@
 ### A* Pathfinding Visualizer
 
 Personal Project
-Wrote a program with a friend in Python that visulizes the A* Pathfinding Algorithm
+Wrote a program with a friend in Python that visulizes the A* Pathfinding Algorithm.
 <video width="500" height="750" controls>
   <source src="images/Vizulization.mp4" type=video/mp4>
 </video>
+
+---
 
 ### Interactive Tic-Tac-Toe 
 
