@@ -2,6 +2,13 @@
 
 ---
 
+### A* Pathfinding Visualizer
+
+Personal Project
+<video width="500" height="750" controls>
+  <source src="images/Vizulization.mov" type=video/mov>
+</video>
+
 ### Interactive Tic-Tac-Toe 
 
 
