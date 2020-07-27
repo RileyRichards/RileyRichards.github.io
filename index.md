@@ -7,7 +7,9 @@
 Personal Project
 Wrote a program with a friend in Python that visulizes the A* Pathfinding Algorithm.
 <br>
-Made a Python interface which takes the users different imputes and based creates a animation that vizulises the process of the A* Pathfinding Algorithm.
+Made a Python interface which takes the users imputes and creates a animation that vizulises the process of the A* Pathfinding Algorithm.
+<br>
+<a href="https://github.com/RileyRichards/Path_Finding_Visualization"> A* Pathfinding Algorithm Github repository</a>
 <video width="500" height="522" controls>
   <source src="images/Vizulization.mp4" type="video/mp4">
 </video>
