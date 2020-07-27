@@ -19,10 +19,13 @@ Made a Python interface which takes the users imputes and creates a animation th
 ### Interactive Tic-Tac-Toe 
 
 
-<img src="images/tick-tac-toe.png?raw=true"/>
+
 Course Project, Spring 2019
 <br>
-Qt with C++
+Wrote a 2 player turn based Tic-Tac-Toe Game using Qt with C++
+<br>
+With a intuitive UI.
+<img src="images/tick-tac-toe.png?raw=true"/>
 
 ---
 
