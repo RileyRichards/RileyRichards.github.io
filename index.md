@@ -5,9 +5,11 @@
 ### A* Pathfinding Visualizer
 
 Personal Project
+<br>
+<br>
 Wrote a program with a friend in Python that visualizes the A* Pathfinding Algorithm.
 <br>
-Made a Python interface which takes the users imputes and creates an animation that visualizes the process of the A* Pathfinding Algorithm, which finds the shortest possible path between two points
+Made a Python interactive UI which takes the users input and creates an animation that visualizes the process of the A* Pathfinding Algorithm, which finds the shortest possible path between two points.
 <br>
 <a href="https://github.com/RileyRichards/Path_Finding_Visualization"> A* Pathfinding Algorithm Github repository</a>
 <video width="500" height="522" controls>
